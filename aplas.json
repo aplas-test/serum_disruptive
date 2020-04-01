@@ -29,7 +29,6 @@
           "name": "INT-403",
           "categoryId": "cfecb993-3f2a-4a06-83db-c9a48bf8ddad",
           "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
-          "sourceApplicationId": "serum_disruptive",
           "targetApplicationId": "tiger_web",
           "logical_server": "A2A",
           "status_color": "#00FF00",
